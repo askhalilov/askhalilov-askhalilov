@@ -34,4 +34,4 @@ Email: mailto:luntickov89@gmail.com
 
 ## Contact
 Telegram: https://t.me/@Shiiisui  
-Email: mailto:luntickov89@gmail.com
+Email:luntickov89@gmail.com
