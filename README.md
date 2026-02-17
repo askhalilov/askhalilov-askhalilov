@@ -5,8 +5,9 @@
 
 Portfolio: https://<портфолио>  
 Landing Library (100+): https://<библиотека-лендингов>  
-Telegram: https://t.me/<ник> · Email: mailto:<почта>
 
+Telegram: https://t.me/@Shiiisui
+Email: mailto:luntickov89@gmail.com
 </div>
 
 ---
