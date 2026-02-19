@@ -4,7 +4,7 @@
 **Frontend Developer** · Landing Pages · UI Motion
 
 Portfolio: https://<портфолио>  
-Landing Library (100+): https://<библиотека-лендингов>  
+Landing Library (1000+): https://askhalilov.github.io/landing-library/
 
 Telegram: https://t.me/@Shiiisui
 Email: mailto:luntickov89@gmail.com
@@ -16,8 +16,8 @@ Email: mailto:luntickov89@gmail.com
 - **Portfolio** — premium UI, typography, motion  
   Live: https://<портфолио> · Code: https://github.com/askhalilov/<repo>
 
-- **Landing Library (100+)** — каталог всех демо с поиском  
-  Live: https://<library> · Code: https://github.com/askhalilov/<repo>
+- **Landing Library (1000+)** — каталог всех моих лендингов для Google ADS 
+  Live: Landing Library (1000+): https://askhalilov.github.io/landing-library/
 
 - **Apple-style landing** — scroll scenes, micro-interactions  
   Live: https://<demo> · Code: https://github.com/askhalilov/<repo>
